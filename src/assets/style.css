@@ -1,0 +1,72 @@
+.body{
+    background-color: #1d2b3a;
+}
+.header{
+    background-color: #819674;
+    height: 80px;
+}
+.navbar-brand{
+    width: 100px;
+    text-align: center;
+    background-color: #16161660;
+    border-radius: 10px;
+    color: #ffffffa8;
+    box-shadow: 2px 2px 2px 2px rgb(77, 2, 2);
+}
+.register-login{
+    background-color: #82a56d;
+    border-radius: 10px ;
+    box-shadow: 2px 2px 2px 2px black;
+    font-weight: bold;
+}
+.register-login:hover{
+    background-color: #1d2b3a60;
+}
+.nav-item a{
+    text-decoration: none;
+} 
+.card{
+    background-color: #82a56da9;
+    color: #ffff;
+}
+.btn{
+    background-color: #82a56d;
+    border-radius: 10px ;
+    box-shadow: 2px 2px 2px 2px black;
+    font-weight: bold;
+    color: white;
+}
+.words{
+    padding: 10px;
+    margin: 2px 2px 2px 2px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.cssWord{
+    background-color: #ffff;
+    margin: 2px 2px 2px 2px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.kutu{
+    background-color: gainsboro;
+    width: 800px;
+    padding: 20px;
+    margin-left: 200px;
+    margin-bottom: 15px;
+}
+.box{
+    background-color: lightgray;
+    position: relative;
+    border: 1px solid gray;
+    border-radius: 15px;
+    height: 30px;
+    overflow: hidden;
+    line-height: 30px;
+}
+.yüzde{
+    background-color: rgba(0, 0, 255, 0.534);
+    position: absolute;
+    width: 0;
+    height: 100%;
+}
